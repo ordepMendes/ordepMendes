@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Front-end%20Developer&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Software%20Developer&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
 
 ## Olá Devs, sou o Pedro !
 
