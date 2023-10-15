@@ -5,7 +5,7 @@
 Sobre mim
 
 * 📚 Atualmente estou estudando Javascript em busca de reforçar a base.
-* 🖌️ Pretendo me aprofundarna area de UI/UX Design.
+* 🖌️ Pretendo me aprofundar no back-end
 
   <h2>Linguagens e ferramentas</h2>
 
