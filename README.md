@@ -1,45 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C6B94&height=160&section=header&text=Software%20Developer&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+<h1 align="center">Olá, meu nome é Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-## Olá Devs, sou o Pedro !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0fbbff&center=true&vCenter=true&width=1000&lines=Dev+Front-end)](https://git.io/typing-svg)
 
-Sobre mim
-
-* 📚 Atualmente estou estudando Javascript em busca de reforçar a base.
-* 🖌️ Pretendo me aprofundar no back-end
-
-  <h2>Linguagens e ferramentas</h2>
-
-#### Front-End:
-
-<div style="display='flex';style="margin-bottom: 4px;">
-<img src="https://img.shields.io/badge/HTML5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%orange" height="35px">
-<img src="https://img.shields.io/badge/CSS3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" height="35px">
-<img src="https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  height="35px">
-<img src="https://img.shields.io/badge/Typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue"  height="35px">
-<img src="https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue"  height="35px">
-<img src="https://img.shields.io/badge/React%20Native-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue"  height="35px">
-</div>
-
-#### Banco de dado:
-
-<img src="https://img.shields.io/badge/Postgresql-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=blue"  height="35px">
-
-#### Ferramentas gerais:
-
-<div style="display='flex';style="margin-bottom: 4px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50px" />
-</div>
-
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
+<h3>🧑‍💻 Sobre mim</h3>
+<ul>
+  <li>🎓 Estou cursando Analise e Desenvolvimento de Sistemas</li>
+  <li>📱 Gosto muito do desenvolvimento mobile</li>
+  <li>🖌️ Estou empenhado para aprender sobre UI/UX designer</li>
+</ul>
+<h2>📈 Skills</h2>
+<h3>
+  💻 Linguagens / Frameworks
+</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css" /> 
+</a>
+<h3>
+  ⚙️ Versionamento / Repositorios / Testes
+</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gitlab,github,git,jest" /> 
+</a>
+<h3>
+  🛠️ Ferramentas
+</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress" /> 
+</a>
+<h2></h2>
 <div>
-   <a href="https://github.com/ordepMendes">
-  <img width="380em" height="250em" src="https://github-readme-stats.vercel.app/api?username=ordepMendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  width="380em" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordepMendes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <div>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordepMendes&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ordepMendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+<h2></h2>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ordepmendes&amp;theme=2077">
+<h3>Contatos</h3>
+<a href="mailto:pedrohh0012@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/pedro-mendes-1ba551215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
