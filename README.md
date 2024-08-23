@@ -26,7 +26,7 @@
   🛠️ Ferramentas
 </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress,eclipse" /> 
 </a>
 <h2></h2>
 <div>
