@@ -20,7 +20,7 @@
   ⚙️ Versionamento / Repositorios / Testes
 </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gitlab,github,git,jest" /> 
+  <img src="https://skillicons.dev/icons?i=gitlab,github,git,jest,cypress" /> 
 </a>
 <h3>
   🛠️ Ferramentas
