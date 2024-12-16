@@ -9,12 +9,13 @@
   <li>📱 Gosto muito do desenvolvimento mobile</li>
   <li>🖌️ Estou empenhado para aprender sobre UI/UX designer</li>
 </ul>
+</br>
 <h2>📈 Skills</h2>
 <h3>
   💻 Linguagens / Frameworks
 </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css" /> 
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css" /> 
 </a>
 <h3>
   ⚙️ Versionamento / Repositorios / Testes
@@ -26,7 +27,7 @@
   🛠️ Ferramentas
 </h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress,eclipse" /> 
+  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress,postman" /> 
 </a>
 <h2></h2>
 <div>
