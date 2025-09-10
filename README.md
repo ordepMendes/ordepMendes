@@ -18,7 +18,7 @@
 
 ### 💻 Linguagens e Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,angular,node" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,html,css,angular,nodejs" />
 </a>
 
 ### ⚙️ Versionamento, Repositórios e Testes
@@ -28,7 +28,7 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress,imsominia,firebase" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,bootstrap,materialui,styledcomponents,androidstudio,wordpress,firebase" />
 </a>
 
 ---
