@@ -1,15 +1,15 @@
 <h1 align="center">Olá, meu nome é Pedro! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0fbbff&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-end+%7C+Estudante+de+Tecnologia+%7C+Apaixonado+por+UI%2FUX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0fbbff&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-stack+%7C+Estudante+de+Tecnologia+%7C+Apaixonado+por+inovação)](https://git.io/typing-svg)
 
 <img align="right" width="250px" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 
 ## 🧑‍💻 Sobre mim
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas  
-- 💻 Desenvolvedor front-end focado em JavaScript e TypeScript  
+- 💻 Desenvolvedor full stack focado em JavaScript e TypeScript  
 - 📱 Apaixonado por mobile e design centrado no usuário  
-- 🎯 Em constante evolução, estudando testes automatizados e UI/UX  
+- 🎯 Em constante evolução, estudando angular
 - 🚀 Buscando crescer como desenvolvedor e contribuir com projetos impactantes
 
 ---
